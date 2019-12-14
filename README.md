@@ -2,8 +2,8 @@
 
 # Project brief
 This project is developed as part of Advanced Programming Techniques course from RMIT 
-
-#Team members
+This project is written in C/C++
+# Team members
 * Jessica Cruz (Functional Lead)
 * Ted Vu (Scrum Master)
 * Kevin Vu (Tech Lead)
